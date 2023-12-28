@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/lijoferdinand/Developement/java/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+91911147.index
+675279444.index
+412292163.index
+2169087024.index
+3654419769.index
+1924484980.index

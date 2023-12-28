@@ -1,0 +1,24 @@
+INDEX VERSION 1.134+/Users/lijoferdinand/Developement/java/.metadata/.plugins/org.eclipse.jdt.core
+1828663066.index
+3561709599.index
+1442404578.index
+3771748648.index
+1474391119.index
+1196147442.index
+1997293019.index
+3733199280.index
+3090248915.index
+2121108428.index
+2848067675.index
+291662228.index
+2039455038.index
+934920240.index
+3830464875.index
+2999517130.index
+586951056.index
+1501827683.index
+1865797976.index
+1826644397.index
+610397098.index
+3548550773.index
+1528807084.index

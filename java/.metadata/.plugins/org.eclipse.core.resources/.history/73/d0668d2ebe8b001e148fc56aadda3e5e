@@ -1,0 +1,44 @@
+package javademo;
+import java.util.*;
+
+public class Strrev {
+	public static void main(String []args) 
+	{
+		palindr();
+		//strev();
+		//missng();
+	}
+	public static void strev() {
+		Scanner scanner=new Scanner(System.in);
+		String act=scanner.nextLine();
+		String rev="";
+		
+		//String nr="love eme";
+				for(int i=act.length()-1;i>=0;i--) {
+			rev += act.charAt(i);
+		}
+		System.out.println(rev);
+	}
+	public static void missng() {
+		//int size=10;
+		//int arr[]=new int[size];
+		int n=0;
+		int[] arr= {1,2,3,4,6,7,8,9};
+		for(int i=0;i<=arr.length-1;i++) {
+			if(i==arr[i])
+			n=i;
+			
+		}
+		System.out.println(n);
+	}
+	static void palindr() {
+		String inp="lijojil";
+		String rev = null;
+		for(int i=inp.length();i<0;i--) {
+			rev+=inp.charAt(i);
+		}
+		if (rev==inp)
+			System.out.println("palindrome");
+		System.out.println("np");
+	}
+}
